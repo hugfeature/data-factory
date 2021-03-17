@@ -1,0 +1,5 @@
+name=wangyi|||wanger|||wangsan|||wang
+reqUrl=http://www.abc.com/a/b/c|||http://www.def.com/d/e/f|||http://www.def.com/a/e/f
+tmp=$Func{intRand(1000000000, 1999999999)}
+b=testVar|||testVar0|||testVar1|||testVar2
+ot=$Func{intRand(2)}
